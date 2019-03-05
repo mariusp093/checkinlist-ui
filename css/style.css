@@ -1,5 +1,5 @@
 body {
-    background-color: #eaeaea;
+    background-color: #ecedf7;
 }
 
 p {
@@ -38,7 +38,7 @@ header {
 
 header h1 {
     text-align: right;
-    color: #3b8dbd;
+    color: #0E7C0E;
 }
 
 #content-wrapper {
@@ -67,7 +67,7 @@ footer {
     bottom: 0;
     position: fixed;
     width: 100%;
-    background-color: #3b8dbd;
+    background-color: #0E7C0E;
     color: #ffffff;
     font-size: 0.9em;
     padding: 8px;
@@ -77,8 +77,8 @@ footer {
     padding: 0;
     margin: 0;
     text-align: center;
-    background-color: #00aeef;
-    border-bottom: 1px solid #00aeef;
+    background-color: #0E7C0E;
+    border-bottom: 1px solid #1F0710;
     height: 40px;
     font-weight: bold;
 }
@@ -129,7 +129,7 @@ footer {
 }
 
 .widget .header {
-    background: #3b8dbd url("../img/toggle-collapse.png") 15px center no-repeat;
+    background: #0E7C0E url("../img/toggle-collapse.png") 15px center no-repeat;
     color: #ffffff;
     padding: 15px;
     text-align: right;
